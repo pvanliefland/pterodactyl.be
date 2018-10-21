@@ -1,0 +1,27 @@
+{
+  "name": "pterodactyl.be",
+  "version": "1.0.0",
+  "description": "P T E R O D A C T Y L",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvanliefland/pterodactyl.be.git"
+  },
+  "author": "pierre@pterodactyl.be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pvanliefland/pterodactyl.be/issues"
+  },
+  "homepage": "https://github.com/pvanliefland/pterodactyl.be#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
