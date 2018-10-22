@@ -5,7 +5,8 @@ import Head from 'next/head';
 const Page = props => (
   <div>
     <Head>
-      <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet" />
     </Head>
     <style global jsx>{`
       body, html {
@@ -52,7 +53,7 @@ const Page = props => (
     `}</style>
     <style jsx>{`
       div {
-        padding: 0 2vw;
+        padding: 0 5vw;
         max-width: 800px;
         margin: 0 auto;
         display: flex;

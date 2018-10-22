@@ -8,13 +8,13 @@ const Index = () => (
     <h2>Hey there! I'm Pierre. I develop APIs, web platforms and mobile applications.</h2>
     <p>
       Get in touch: <a href="mailto:pierre+contact@pterodactyl.be">pierre@pterodactyl.be</a>, or <a
-      href="https://www.linkedin.com/in/pvanliefland/" target="_blank">linkedin/pvanliefland.</a>
+      href="https://www.linkedin.com/in/pvanliefland/" target="_blank">linkedin/pvanliefland</a>.
     </p>
     <p>My recent work mostly involved the following technologies:</p>
     <ul>
       <li><strong>Python</strong> (usually with Flask or Django)</li>
-      <li><strong>React</strong> and <strong>React Native</strong> development (usually with Redux)</li>
-      <li><strong>Databases</strong> (PostgreSQL/MySQL/Couchbase/Mongo/Redis)</li>
+      <li><strong>React</strong> and <strong>React Native</strong> (usually with Redux)</li>
+      <li><strong>Databases</strong> (PostgreSQL, MySQL, Couchbase, Mongo, Redis)</li>
       <li><strong>Docker</strong> as the development environment</li>
     </ul>
     <p>
@@ -38,7 +38,7 @@ const Index = () => (
       </li>
       <li>
         <p>
-          From 2010 to 2015, together with two partners, I co-founded and lead <a href="http://snowcap.be"
+          From 2010 to 2015, together with two partners, I co-founded and led <a href="http://snowcap.be"
                                                                                   target="_blank">Snowcap</a>, a
           development agency specialised in custom websites and applications.
         </p>
