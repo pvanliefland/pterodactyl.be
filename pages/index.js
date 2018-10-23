@@ -13,6 +13,7 @@ const Index = () => (
     <p>My recent work mostly involved the following technologies:</p>
     <ul>
       <li><strong>Python</strong> (usually with Flask or Django)</li>
+      <li><strong>REST</strong> and <strong>GraphQL</strong> APIs</li>
       <li><strong>React</strong> and <strong>React Native</strong> (usually with Redux)</li>
       <li><strong>Databases</strong> (PostgreSQL, MySQL, Couchbase, Mongo, Redis)</li>
       <li><strong>Docker</strong> as the development environment</li>
