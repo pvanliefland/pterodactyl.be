@@ -39,7 +39,7 @@ const Index = () => (
       <li>
         <p>
           From 2010 to 2015, together with two partners, I co-founded and led <a href="http://snowcap.be"
-                                                                                  target="_blank">Snowcap</a>, a
+                                                                                 target="_blank">Snowcap</a>, a
           development agency specialised in custom websites and applications.
         </p>
       </li>
@@ -51,6 +51,10 @@ const Index = () => (
         </p>
       </li>
     </ul>
+    <p>
+      Outside of work, I like to run, climb rocks, read science-fiction, visit museums, and volunteer with local
+      charities.
+    </p>
   </Page>
 );
 
