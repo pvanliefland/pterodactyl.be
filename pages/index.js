@@ -13,6 +13,7 @@ const Index = () => (
     <p>My recent work mostly involved the following technologies:</p>
     <ul>
       <li><strong>Python</strong> (usually with Flask or Django)</li>
+      <li>A bit of <strong>Node.js</strong></li>
       <li><strong>REST</strong> and <strong>GraphQL</strong> APIs</li>
       <li><strong>React</strong> and <strong>React Native</strong> (usually with Redux)</li>
       <li><strong>Databases</strong> (PostgreSQL, MySQL, Couchbase, Mongo, Redis)</li>
@@ -24,6 +25,13 @@ const Index = () => (
     </p>
     <p>Here is a short summary of my career until now:</p>
     <ul>
+      <li>
+        <p>
+          Since November 2018, I've been working on <a href="https://www.mymove.be/" target="_blank">MyMove</a>, a
+          smarter and greener alternative to the company car system in Belgium. I mostly work on the project API and
+          on dashboard & data visualisation tools using React.
+        </p>
+      </li>
       <li>
         <p>
           In 2017 and 2018, I helped build <a href="https://ludus.one" target="_blank">Ludus</a>, an innovative
